@@ -1,0 +1,16 @@
+body {
+  background-color : #1c1c1e ;
+  color : #fefefe ;
+  font-family: ARIAL, sans-serif;
+}
+
+
+img {
+  width: 400px;
+  height: 240px;
+}
+
+
+h1:hover, h2:hover, li:hover {
+  color: #Ffc0cb;
+}
